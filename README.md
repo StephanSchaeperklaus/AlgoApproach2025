@@ -3,6 +3,6 @@ Project and Ideas for the Algorithmic Approach 2025
 
 # AlgoAces
 
-![AlgoAces Logo](Algofile (10).png)
+![AlgoAces Logo](Algofile1.png)
 
 "The Algorithmic Approach: 
